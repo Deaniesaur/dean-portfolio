@@ -1,5 +1,5 @@
 {
-  "name": "deaniesaur.io",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,6 +21,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": "https://deaniesaur.github.io/portfolio/",
   "browserslist": {
     "production": [
       ">0.2%",
@@ -37,6 +38,5 @@
     "gh-pages": "^3.1.0",
     "tsutils": "^3.17.1",
     "typescript": "^4.0.2"
-  },
-  "homepage": "https://deaniesaur.github.io/portfolio"
+  }
 }
