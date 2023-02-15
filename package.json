@@ -1,7 +1,7 @@
 {
   "name": "dean-portfolio",
   "version": "0.1.0",
-  "homepage": "https://deaniesaur.github.io",
+  "homepage": "https://deaniesaur.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/react": "^13.4.0",
