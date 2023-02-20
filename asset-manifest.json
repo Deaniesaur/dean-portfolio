@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/portfolio/static/js/main.d8aab968.js",
-    "static/js/433.3697be55.chunk.js": "/portfolio/static/js/433.3697be55.chunk.js",
-    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/portfolio/index.html",
-    "main.073c9b0a.css.map": "/portfolio/static/css/main.073c9b0a.css.map",
-    "main.d8aab968.js.map": "/portfolio/static/js/main.d8aab968.js.map",
-    "433.3697be55.chunk.js.map": "/portfolio/static/js/433.3697be55.chunk.js.map"
+    "main.css": "/dean-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/dean-portfolio/static/js/main.03581e94.js",
+    "static/js/433.3697be55.chunk.js": "/dean-portfolio/static/js/433.3697be55.chunk.js",
+    "static/media/logo.svg": "/dean-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dean-portfolio/index.html",
+    "main.073c9b0a.css.map": "/dean-portfolio/static/css/main.073c9b0a.css.map",
+    "main.03581e94.js.map": "/dean-portfolio/static/js/main.03581e94.js.map",
+    "433.3697be55.chunk.js.map": "/dean-portfolio/static/js/433.3697be55.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d8aab968.js"
+    "static/js/main.03581e94.js"
   ]
 }
