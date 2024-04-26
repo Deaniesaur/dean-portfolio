@@ -10,6 +10,10 @@ const GlobalStyle = createGlobalStyle`
     scroll-behavior: smooth;
   }
 
+  body {
+    background: ${(props:any) => props.theme.base1}
+  }
+
   #root {
     min-height: 100vh;
     display: grid;

@@ -1,6 +1,4 @@
-// import mixins from './mixins';
-
-const theme = {
+const themes = {
   bp: {
     mobileS: `max-width: 330px`,
     mobileM: `max-width: 400px`,
@@ -13,7 +11,17 @@ const theme = {
     desktopL: `max-width: 1400px`,
   },
 
-//   mixins,
+  light: {
+    primary1: `#000000`,
+    secondary1: `#00ff00`,
+    base1: `#ffffff`,
+  },
+
+  dark: {
+    primary1: `#ffffff`,
+    secondary1: `#00ff00`,
+    base1: `#000000`,
+  }
 };
 
-export default theme;
+export default themes;
