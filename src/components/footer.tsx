@@ -37,7 +37,7 @@ const StyledSocialLinks = styled.div `
 `;
 
 const StyledCredit = styled.div`
-  color: ${(props) => props.theme.primary1};
+  color: ${(props) => props.theme.color.primary1};
   font-family: var(--font-mono);
   font-size: var(--fz-xxs);
   line-height: 1;

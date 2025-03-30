@@ -8,10 +8,12 @@ const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
     width: 100%;
     scroll-behavior: smooth;
+    font-family: Inter;
   }
 
   body {
-    background: ${(props:any) => props.theme.base1}
+    background: ${(props) => props.theme.color.base1};
+    color: ${(props) => props.theme.color.primary1};
   }
 
   #root {
